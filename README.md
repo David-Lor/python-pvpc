@@ -1,8 +1,8 @@
 # pvpc
 
-_Data extraction library/wrapper for the [Esios PVPC](https://www.esios.ree.es/es/pvpc) API. Only exports PVPC price for a given day (€/kWh for each hour)._
+_Data extraction library/wrapper for the [Esios PVPC](https://www.esios.ree.es/es/pvpc) API. Only exports PVPC price for a given day (€/kWh for each hour), from June 1st, 2021._
 
-Librería/wrapper para extracción de datos del [portal Esios PVPC](https://www.esios.ree.es/es/pvpc). Únicamente exporta el precio [PVPC (Precio voluntario para el pequeño consumidor)](https://es.wikipedia.org/wiki/Precio_voluntario_para_el_pequeño_consumidor) para un día concreto (€/kWh por cada hora).
+Librería/wrapper para extracción de datos del [portal Esios PVPC](https://www.esios.ree.es/es/pvpc). Únicamente exporta el precio [PVPC (Precio voluntario para el pequeño consumidor)](https://es.wikipedia.org/wiki/Precio_voluntario_para_el_pequeño_consumidor) para un día concreto (€/kWh por cada hora), a partir del 1 de junio del 2021.
 
 ## Usage
 
